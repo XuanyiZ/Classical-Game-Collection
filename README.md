@@ -1,1 +1,1 @@
-# 242finalProject
+# Classical-Game-Collection
